@@ -20,7 +20,7 @@
 5. Os testes unitários estão divididos em 3 arquivos .java (**QuestaoUmTeste.java, QuestaoDoisTeste.java e QuestãoTresTeste.java**) no diretório "**src/br/com/capgemini/desafio/testes/**".
 6. Para rodar os teste separadamente selecione **QuestaoUmTeste.java, QuestaoDoisTeste.java ou QuestãoTresTeste.java** e os execute.
 
-<h2>✔️ Requisitos</h2>
+<h2>✅ Requisitos</h2>
 Java 11 ou superior - https://www.oracle.com/java/technologies/downloads
 
 
