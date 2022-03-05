@@ -32,6 +32,6 @@ Para o desenvolvivemto foram utilizadas as seguintes tecnologias:
 >* JUnit - Testes unitários.
 <h2>📚 Questões</h2>
 
-* Resolução Questão Um
-* Resolução Questão Dois
-* Resolução Questão Três
+* [Resolução Questão Um](https://github.com/eduardoltc/desafio-capgemini/wiki/Quest%C3%A3o-01)
+* [Resolução Questão Dois](https://github.com/eduardoltc/desafio-capgemini/wiki/Quest%C3%A3o-02)
+* [Resolução Questão Três](https://github.com/eduardoltc/desafio-capgemini/wiki/Quest%C3%A3o-03)
